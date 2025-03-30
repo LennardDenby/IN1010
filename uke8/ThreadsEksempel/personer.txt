@@ -1,4 +1,0 @@
-Alice,Eple,Banan,Kirsebær,Brød,Melk
-Charlie,Penn,Notatbok,Viskelær,Appelsin,Druer,Mango
-Eve,Kaffe,Te,Sukker
-Frank,Ris,Bønner,Linser

@@ -1,0 +1,4 @@
+Er Lennard den beste gruppelæreren?,true
+Ananas på pizza?,true
+Rosin i boller?,false
+Java > python?,false

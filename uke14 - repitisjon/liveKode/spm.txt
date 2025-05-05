@@ -1,0 +1,10 @@
+Kan en metode i Java returnere flere verdier?,Nei
+Ananas på pizza?,Ja
+Er Java et objektorientert programmeringsspråk?,Ja
+Er Python strengt typet?,Nei
+Er ArrayList en primitiv datatype i Java?,Nei
+Er arv en del av objektorientert programmering?,Ja
+Kan en klasse arve fra flere klasser i Java?,Nei
+Er interface det samme som en abstrakt klasse?,Nei
+Kan en abstrakt klasse ha konstruktører?,Ja
+Er generiske typer tilgjengelig i Java?,Ja
